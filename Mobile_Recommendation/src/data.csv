@@ -1,0 +1,84 @@
+name,brand,price,features,storage
+iPhone 15,Apple,1000,5G Support; OLED Display; A16 Bionic Chip; Dual Camera; 6.1-inch display; 128GB storage; Face ID; iOS 17,128
+iPhone 15 Pro,Apple,1250,High-Resolution Camera; OLED Display; A16 Bionic Chip; Triple Camera; 6.1-inch display; 256GB storage; Face ID; iOS 17,256
+iPhone 16,Apple,1300,Wireless Charging; OLED Display; A17 Bionic Chip; Triple Camera; 6.1-inch display; 512GB storage; Face ID; iOS 17,512
+iPhone 14 Pro,Apple,999,MediaTek Dimensity; OLED Display; A16 Bionic Chip; Triple Camera; 6.1-inch display; 512GB storage; Face ID; iOS 16,512
+iPhone 14,Apple,899,MediaTek Dimensity; LCD Display; A15 Bionic Chip; Dual Camera; 6.1-inch display; 512GB storage; Face ID; iOS 16,512
+iPhone 13 Pro Max,Apple,1099,MediaTek Dimensity; OLED Display; A15 Bionic Chip; Triple Camera; 6.7-inch display; 256GB storage; Face ID; iOS 15,256
+iPhone 14 Pro Max,Apple,1299,High-Resolution Camera; OLED Display; A16 Bionic Chip; Triple Camera; 6.7-inch display; 128GB storage; Face ID; iOS 16,128
+iPhone 16 Pro Max,Apple,1399,High-Resolution Camera; OLED Display; A17 Bionic Chip; Triple Camera; 6.7-inch display; 128GB storage; Face ID; iOS 17,128
+iPhone 13,Apple,799,5G Support; LCD Display; A15 Bionic Chip; Dual Camera; 6.1-inch display; 256GB storage; Face ID; iOS 15,256
+iPhone 13 Pro,Apple,899,Wireless Charging; OLED Display; A15 Bionic Chip; Triple Camera; 6.1-inch display; 512GB storage; Face ID; iOS 15,512
+Galaxy S24,Samsung,1705,Headphone Jack; AMOLED Display; Exynos 2200; Quad Camera; 6.2-inch display; 512GB storage; One UI 5.1,512
+Galaxy S24 Ultra,Samsung,2594,Wireless Charging; AMOLED Display; Exynos 2200; Quad Camera; 6.8-inch display; 256GB storage; One UI 5.1,256
+Galaxy S24+,Samsung,1446,Wireless Charging; AMOLED Display; Exynos 2200; Triple Camera; 6.7-inch display; 256GB storage; One UI 5.1,256
+Galaxy S24FE,Samsung,1383,5G Support; AMOLED Display; Exynos 2200; Triple Camera; 6.4-inch display; 256GB storage; One UI 5.1,256
+Galaxy S23 FE,Samsung,919,Headphone Jack; AMOLED Display; Snapdragon 8 Gen 1; Triple Camera; 6.4-inch display; 128GB storage; One UI 5.0,128
+Galaxy S23,Samsung,887,5G Support; AMOLED Display; Snapdragon 8 Gen 1; Triple Camera; 6.1-inch display; 128GB storage; One UI 5.0,128
+Galaxy S20,Samsung,889,Headphone Jack; AMOLED Display; Exynos 990; Triple Camera; 6.2-inch display; 512GB storage; One UI 4.1,512
+Galaxy S10,Samsung,801,5G Support; AMOLED Display; Exynos 9820; Triple Camera; 6.1-inch display; 256GB storage; One UI 4.1,256
+Galaxy S10+,Samsung,599,5G Support; AMOLED Display; Exynos 9820; Triple Camera; 6.4-inch display; 128GB storage; One UI 4.1,128
+Galaxy S9,Samsung,549,Wireless Charging; AMOLED Display; Exynos 9810; Dual Camera; 5.8-inch display; 512GB storage; One UI 4.1,512
+Google Pixel 9 Pro XL,Google,1099,5G Support; OLED Display; Tensor Chip; Quad Camera; 6.7-inch display; 256GB storage; Android 14,256
+Google Pixel 9 Pro,Google,999,Headphone Jack; OLED Display; Tensor Chip; Triple Camera; 6.1-inch display; 512GB storage; Android 14,512
+Google Pixel 9,Google,799,5G Support; OLED Display; Tensor Chip; Dual Camera; 6.1-inch display; 128GB storage; Android 14,128
+Google Pixel 8,Google,699,5G Support; OLED Display; Tensor Chip; Dual Camera; 6.2-inch display; 256GB storage; Android 14,256
+Google Pixel 8 Pro,Google,999,Wireless Charging; OLED Display; Tensor Chip; Triple Camera; 6.7-inch display; 128GB storage; Android 14,128
+Google Pixel 7a,Google,499,5G Support; OLED Display; Tensor Chip; Dual Camera; 6.1-inch display; 256GB storage; Android 13,256
+Google Pixel 7,Google,599,Headphone Jack; OLED Display; Tensor Chip; Triple Camera; 6.3-inch display; 512GB storage; Android 13,512
+Google Pixel 7 Pro,Google,899,5G Support; OLED Display; Tensor Chip; Triple Camera; 6.7-inch display; 256GB storage; Android 13,256
+Google Pixel 6a,Google,449,5G Support; OLED Display; Tensor Chip; Dual Camera; 6.1-inch display; 128GB storage; Android 12,128
+Google Pixel Fold,Google,1799,Wireless Charging; OLED Display; Tensor Chip; Triple Camera; 7.6-inch display; 256GB storage; Android 14,256
+Pixel 9 Pro with Gemini,Google,1359,5G Support; OLED Display; Tensor Chip; Quad Camera; 6.7-inch display; 512GB storage; Android 14,512
+Pixel 9 Pro Fold with Gemini,Google,2309,Headphone Jack; OLED Display; Tensor Chip; Triple Camera; 7.6-inch display; 128GB storage; Android 14,128
+Pixel 8a,Google,679,5G Support; OLED Display; Tensor Chip; Dual Camera; 6.1-inch display; 128GB storage; Android 14,128
+Pixel 7a,Google,599,5G Support; OLED Display; Tensor Chip; Triple Camera; 6.1-inch display; 512GB storage; Android 13,512
+Pixel 8a,Google,679,Wireless Charging; OLED Display; Tensor Chip; Dual Camera; 6.1-inch display; 256GB storage; Android 14,256
+OnePlus 12R,OnePlus,669,5G Support; Fluid AMOLED Display; Snapdragon 8+ Gen 1; Triple Camera; 6.7-inch display; 128GB storage; OxygenOS 13,128
+OnePlus 12,OnePlus,1069,Headphone Jack; Fluid AMOLED Display; Snapdragon 8+ Gen 1; Triple Camera; 6.7-inch display; 256GB storage; OxygenOS 13,256
+OnePlus Nord N30 5G,OnePlus,379,5G Support; LCD Display; MediaTek Dimensity 6100; Dual Camera; 6.5-inch display; 128GB storage; OxygenOS 13,128
+OnePlus Open,OnePlus,2299,5G Support; Fluid AMOLED Display; Snapdragon 8+ Gen 1; Triple Camera; 7.8-inch display; 128GB storage; OxygenOS 13,128
+OnePlus Open,OnePlus,1699,Wireless Charging; Fluid AMOLED Display; Snapdragon 8+ Gen 1; Triple Camera; 7.8-inch display; 512GB storage; OxygenOS 13,512
+OnePlus Nord N30 5G,OnePlus,279,5G Support; LCD Display; MediaTek Dimensity 6100; Dual Camera; 6.5-inch display; 512GB storage; OxygenOS 13,512
+OnePlus 12,OnePlus,769,Headphone Jack; Fluid AMOLED Display; Snapdragon 8+ Gen 1; Triple Camera; 6.7-inch display; 512GB storage; OxygenOS 13,512
+AGNI 3 Plus,Lava,689,Water Resistant; LCD Display; MediaTek Helio G90; Dual Camera; 6.5-inch display; 32GB storage; Android 12,32
+Blaze 3 5G,Lava,717,Wireless Charging; LCD Display; MediaTek Dimensity 700; Dual Camera; 6.5-inch display; 128GB storage; Android 12,128
+Bl aze X2,Lava,250,High-Resolution Camera; LCD Display; MediaTek Helio G25; Dual Camera; 6.1-inch display; 32GB storage; Android 12,32
+Yuva 5G,Lava,649,Headphone Jack; LCD Display; MediaTek Dimensity 700; Dual Camera; 6.5-inch display; 32GB storage; Android 12,32
+O2 Pro,Lava,709,Headphone Jack; LCD Display; MediaTek Helio G90; Dual Camera; 6.5-inch display; 256GB storage; Android 12,256
+Blaze Curve,Lava,533,Wireless Charging; LCD Display; MediaTek Helio G90; Dual Camera; 6.5-inch display; 256GB storage; Android 12,256
+Yuva 3 Plus,Lava,420,Water Resistant; LCD Display; MediaTek Helio G25; Dual Camera; 6.1-inch display; 128GB storage; Android 12,128
+Yuva 3 Pro,Lava,350,Water Resistant; LCD Display; MediaTek Helio G25; Dual Camera; 6.1-inch display; 256GB storage; Android 12,256
+Blaze 2 5G,Lava,909,Water Resistant; LCD Display; MediaTek Dimensity 700; Dual Camera; 6.5-inch display; 128GB storage; Android 12,128
+O1 Pro,Lava,983,5G Support; LCD Display; MediaTek Dimensity 700; Dual Camera; 6.5-inch display; 256GB storage; Android 12,256
+Blaze Pro 5G,Lava,436,Water Resistant; LCD Display; MediaTek Dimensity 700; Dual Camera; 6.5-inch display; 32GB storage; Android 12,32
+Blaze 2 Pro,Lava,613,5G Support; LCD Display; MediaTek Helio G90; Dual Camera; 6.5-inch display; 64GB storage; Android 12,64
+Yuva 2 Pro,Lava,261,Headphone Jack; LCD Display; MediaTek Helio G25; Dual Camera; 6.1-inch display; 32GB storage; Android 12,32
+Yuvav 8,Lava,466,Water Resistant; LCD Display; MediaTek Helio G90; Dual Camera; 6.5-inch display; 32GB storage; Android 12,32
+AGNI 2,Lava,741,Lightweight Design; LCD Display; MediaTek Helio G90; Dual Camera; 6.5-inch display; 128GB storage; Android 12,128
+Blaze 2,Lava,573,Water Resistant; LCD Display; MediaTek Helio G90; Dual Camera; 6.5-inch display; 128GB storage; Android 12,128
+Blaze 5G 8GB,Lava,665,Headphone Jack; LCD Display; MediaTek Dimensity 700; Dual Camera; 6.5-inch display; 128GB storage; Android 12,128
+AGNI 5G,Lava,711,High-Resolution Camera; LCD Display; MediaTek Dimensity 700; Dual Camera; 6.5-inch display; 256GB storage; Android 12,256
+Blaze 5G,Lava,366,Water Resistant; LCD Display; MediaTek Dimensity 700; Dual Camera; 6.5-inch display; 32GB storage; Android 12,32
+Blaze Pro,Lava,997,Wireless Charging; LCD Display; MediaTek Helio G90; Dual Camera; 6.5-inch display; 128GB storage; Android 12,128
+AGNI 3,Lava,599,Headphone Jack; LCD Display; MediaTek Helio G90; Dual Camera; 6.5-inch display; 128GB storage; Android 12,128
+Blaze 3 5G,Lava,399,High-Resolution Camera; LCD Display; MediaTek Dimensity 700; Dual Camera; 6.5-inch display; 128GB storage; Android 12,128
+Blaze X,Lava,799,Water Resistant; LCD Display; MediaTek Dimensity 700; Dual Camera; 6.5-inch display; 128GB storage; Android 12,128
+Yuva 5G,Lava,549,Water Resistant; LCD Display; MediaTek Dimensity 700; Dual Camera; 6.5-inch display; 256GB storage; Android 12,256
+O2,Lava,649,Headphone Jack; LCD Display; MediaTek Helio G90; Dual Camera;  6.5-inch display; 256GB storage; Android 12,256
+Blaze Curve,Lava,349,High-Resolution Camera; LCD Display; MediaTek Helio G90; Dual Camera; 6.5-inch display; 128GB storage; Android 12,128
+Yuva 3,Lava,399,Headphone Jack; LCD Display; MediaTek Helio G25; Dual Camera; 6.1-inch display; 512GB storage; Android 12,512
+Yuva 3 Pro,Lava,599,Wireless Charging; LCD Display; MediaTek Helio G90; Dual Camera; 6.1-inch display; 256GB storage; Android 12,256
+Blaze 2 5G,Lava,299,High-Resolution Camera; LCD Display; MediaTek Dimensity 700; Dual Camera; 6.5-inch display; 256GB storage; Android 12,256
+O1,Lava,599,5G Support; LCD Display; MediaTek Dimensity 700; Dual Camera; 6.5-inch display; 128GB storage; Android 12,128
+Blaze Pro 5G,Lava,499,5G Support; LCD Display; MediaTek Dimensity 700; Dual Camera; 6.5-inch display; 512GB storage; Android 12,512
+Blaze 2 Pro,Lava,799,High-Resolution Camera; LCD Display; MediaTek Helio G90; Dual Camera; 6.5-inch display; 512GB storage; Android 12,512
+Yuva 2,Lava,399,Water Resistant; LCD Display; MediaTek Helio G25; Dual Camera; 6.1-inch display; 256GB storage; Android 12,256
+Yuva,Lava,549,Water Resistant; LCD Display; MediaTek Helio G90; Dual Camera; 6.5-inch display; 512GB storage; Android 12,512
+AGNI 2,Lava,649,Headphone Jack; LCD Display; MediaTek Helio G90; Dual Camera; 6.5-inch display; 512GB storage; Android 12,512
+Blaze 2,Lava,749,Wireless Charging; LCD Display; MediaTek Helio G90; Dual Camera; 6.5-inch display; 128GB storage; Android 12,128
+Blaze 5G 8GB,Lava,549,Wireless Charging; LCD Display; MediaTek Dimensity 700; Dual Camera; 6.5-inch display; 128GB storage; Android 12,128
+AGNI 5G,Lava,699,Headphone Jack; LCD Display; MediaTek Dimensity 700; Dual Camera; 6.5-inch display; 128GB storage; Android 12,128
+Blaze 5G,Lava,599,High-Resolution Camera; LCD Display; MediaTek Dimensity 700; Dual Camera; 6.5-inch display; 512GB storage; Android 12,512
+Blaze Pro,Lava,399,5G Support; LCD Display; MediaTek Helio G90; Dual Camera; 6.5-inch display; 256GB storage; Android 12,256
+X2,Lava,599,5G Support; LCD Display; MediaTek Helio G90; Dual Camera; 6.5-inch display; 128GB storage; Android 12,128
